@@ -1,0 +1,5 @@
+Links:
+
+GitHub project repository -> https://github.com/claudiopezzino/linkingg
+
+SonarCloud project -> https://sonarcloud.io/project/overview?id=claudiopezzino_linkingg
